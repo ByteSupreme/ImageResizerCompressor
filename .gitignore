@@ -130,3 +130,4 @@ dmypy.json
 
 #Jetbrain
 .idea/
+.DS_Store
